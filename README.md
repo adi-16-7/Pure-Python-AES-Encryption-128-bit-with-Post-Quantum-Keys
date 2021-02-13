@@ -1,4 +1,4 @@
-# Pure POython implementation of AES-Encryption-128-bit with Post Quantum Keys
+# Pure Python implementation of AES-Encryption-128-bit with Post Quantum Keys
 Overview - In this project, we will be implementing SPHINCS-Simpira. It is an alternative to the SPHINCS signature scheme, and we will also be using Simpira as a building block. SPHINCS is a hash-based signature scheme along with post-quantum security.  
 
 Objective - So we plan to use SPHINCS, which is a post-quantum stateless hashing scheme along with AES 128. Such a kind of merger has not been done yet, and we are ourselves venturing into unknown grounds. 
